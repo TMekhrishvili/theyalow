@@ -1,0 +1,100 @@
+/* font-family: "Open Sans Regular"; */
+@font-face {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: normal;
+    src: url("./assets/fonts/OpenSansRegular/OpenSansRegular.eot");
+    src: url("./assets/fonts/OpenSansRegular/OpenSansRegular.eot?#iefix") format("embeded-opentype"),
+         url("./assets/fonts/OpenSansRegular/OpenSansRegular.woff2") format("woff2"),
+         url("./assets/fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+         url("./assets/fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+}
+/* font-family: "Segoe WP Regular"; */
+@font-face {
+    font-family: "Segoe WP";
+    font-weight: 400;
+    font-style: normal;
+    src: url("./assets/fonts/SegoeWPRegular/SegoeWPRegular.eot");
+    src: url("./assets/fonts/SegoeWPRegular/SegoeWPRegular.eot?#iefix") format("embeded-opentype"),
+         url("./assets/fonts/SegoeWPRegular/SegoeWPRegular.woff2") format("woff2"),
+         url("./assets/fonts/SegoeWPRegular/SegoeWPRegular.woff") format("woff"),
+         url("./assets/fonts/SegoeWPRegular/SegoeWPRegular.ttf") format("truetype");
+  }
+/* font-family: "Segoe WP Light"; */  
+  @font-face {
+    font-family: "Segoe WP";
+    font-weight: 300;
+    font-style: normal;
+    src: url("./assets/fonts/SegoeWPLight/SegoeWPLight.eot");
+    src: url("./assets/fonts/SegoeWPLight/SegoeWPLight.eot?#iefix") format("embeded-opentype"),
+         url("./assets/fonts/SegoeWPLight/SegoeWPLight.woff2") format("woff2"),
+         url("./assets/fonts/SegoeWPLight/SegoeWPLight.woff") format("woff"),
+         url("./assets/fonts/SegoeWPLight/SegoeWPLight.ttf") format("truetype");
+  }
+  /* font-family: "Segoe UI Light"; */  
+  @font-face {
+    font-family: "Segoe UI";
+    font-weight: 300;
+    font-style: normal;
+    src: url("./assets/fonts/SegoeUILight/SegoeUILight.eot");
+    src: url("./assets/fonts/SegoeUILight/SegoeUILight.eot?#iefix") format("embeded-opentype"),
+         url("./assets/fonts/SegoeUILight/SegoeUILight.woff2") format("woff2"),
+         url("./assets/fonts/SegoeUILight/SegoeUILight.woff") format("woff"),
+         url("./assets/fonts/SegoeUILight/SegoeUILight.ttf") format("truetype");
+  }
+  /* font-family: "Segoe UI Regular"; */  
+  @font-face {
+    font-family: "Segoe UI";
+    font-weight: 400;
+    font-style: normal;
+    src: url("./assets/fonts/SegoeUIRegular/SegoeUIRegular.eot");
+    src: url("./assets/fonts/SegoeUIRegular/SegoeUIRegular.eot?#iefix") format("embeded-opentype"),
+         url("./assets/fonts/SegoeUIRegular/SegoeUIRegular.woff2") format("woff2"),
+         url("./assets/fonts/SegoeUIRegular/SegoeUIRegular.woff") format("woff"),
+         url("./assets/fonts/SegoeUIRegular/SegoeUIRegular.ttf") format("truetype");
+  }
+  /* font-family: "Segoe UI Bold"; */  
+  @font-face {
+    font-family: "Segoe UI";
+    font-weight: 700;
+    font-style: normal;
+    src: url("./assets/fonts/SegoeUIBold/SegoeUIBold.eot");
+    src: url("./assets/fonts/SegoeUIBold/SegoeUIBold.eot?#iefix") format("embeded-opentype"),
+         url("./assets/fonts/SegoeUIBold/SegoeUIBold.woff2") format("woff2"),
+         url("./assets/fonts/SegoeUIBold/SegoeUIBold.woff") format("woff"),
+         url("./assets/fonts/SegoeUIBold/SegoeUIBold.ttf") format("truetype");
+  }
+  /* font-family: "Asap Regular"; */
+  @font-face {
+    font-family: "Asap";
+    font-weight: 400;
+    font-style: normal;
+    src: url("./assets/fonts/AsapRegular/AsapRegular.eot");
+    src: url("./assets/fonts/AsapRegular/AsapRegular.eot?#iefix") format("embeded-opentype"),
+         url("./assets/fonts/AsapRegular/AsapRegular.woff2") format("woff2"),
+         url("./assets/fonts/AsapRegular/AsapRegular.woff") format("woff"),
+         url("./assets/fonts/AsapRegular/AsapRegular.ttf") format("truetype");
+  }
+  /* font-family: "PT Sans"; */
+  @font-face {
+    font-family: "PT Sans";
+    font-weight: 400;
+    font-style: normal;
+    src: url("./assets/fonts/PTSansRegular/PTSansRegular.eot");
+    src: url("./assets/fonts/PTSansRegular/PTSansRegular.eot?#iefix") format("embeded-opentype"),
+         url("./assets/fonts/PTSansRegular/PTSansRegular.woff2") format("woff2"),
+         url("./assets/fonts/PTSansRegular/PTSansRegular.woff") format("woff"),
+         url("./assets/fonts/PTSansRegular/PTSansRegular.ttf") format("truetype");
+  }
+  /* font-family: "PT Sans Narrow"; */
+  @font-face {
+    font-family: "PT Sans Narrow";
+    font-weight: 700;
+    font-style: normal;
+    src: url("./assets/fonts/PTSansNarrowBold/PTSansNarrowBold.eot");
+    src: url("./assets/fonts/PTSansNarrowBold/PTSansNarrowBold.eot?#iefix") format("embeded-opentype"),
+         url("./assets/fonts/PTSansNarrowBold/PTSansNarrowBold.woff2") format("woff2"),
+         url("./assets/fonts/PTSansNarrowBold.woff") format("woff"),
+         url("./assets/fonts/PTSansNarrowBold.ttf") format("truetype");         
+  }
+
